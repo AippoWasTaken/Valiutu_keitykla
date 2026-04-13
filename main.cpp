@@ -48,7 +48,7 @@ int main() {
 
         double rezultatas;
         if (pasirinkimas == 2) rezultatas = kiekis * kursas;
-        else rezultatas = kursas / kiekis;
+        else rezultatas = kiekis / kursas;
 
         cout << fixed << setprecision(2) << endl;
         cout << "rezultatas: " << rezultatas << endl;
